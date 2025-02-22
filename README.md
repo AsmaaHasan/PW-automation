@@ -1,4 +1,4 @@
-# Playwright Project
+# Autiomation with Playwright
 
 This project requires Node.js to run. To get started, make sure you have Node.js installed, then run:
 
