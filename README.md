@@ -15,7 +15,7 @@ project-structure/
 └── README.md
 
 
-### Folders
+###Folders
 
 - pages/
   Contains Page Object Model classes. Each class encapsulates the selectors and methods for a specific page or feature.  
@@ -38,14 +38,15 @@ project-structure/
 
 ## Installation
 
-1. **Install Node.js**  
+1. Install Node.js 
    Make sure you have [Node.js](https://nodejs.org/) installed (v14 or higher is recommended).
 
-2. **Clone the repository**  
-   ```bash
+2. Install Playwright
+npm init playwright@latest
+
+3. Clone the repository
    git clone https://github.com/your-username/PW-PROJECT.git
    cd PW-PROJECT
-3. **Run Playwright cmd**
 
-   ```bash
+4. Run Playwright cmd
    npx playwright test
